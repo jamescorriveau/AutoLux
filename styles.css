@@ -54,7 +54,7 @@
   text-align: center;
 }
 
-.navbar-item {
+.navbar__item {
   height: 80px;
 }
 
@@ -81,7 +81,7 @@
   justify-content: center;
   align-items: center;
   text-decoration: none;
-  padding: 10ox 20px;
+  padding: 10px 20px;
   height: 100%;
   width: 100%;
   border: none;
@@ -92,7 +92,7 @@
 }
 
 .button:hover {
-  background-color: #4837ff;
+  background: #4837ff;
   transition: all 0.3s ease;
 }
 
@@ -144,6 +144,7 @@
     height: 3px;
     margin: 5px auto;
     transition: all 0.3s ease-in-out;
+    background: #fff;
   }
 
   .navbar__item {
