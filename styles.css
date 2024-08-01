@@ -29,6 +29,8 @@
 }
 
 #navbar__logo {
+  display: flex;
+  align-items: center;
   background-color: #ff8177;
   background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
   background-size: 100%;
@@ -36,11 +38,15 @@
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
-  display: flex;
-  align-items: center;
   cursor: pointer;
   text-decoration: none;
   font-size: 2rem;
+}
+
+.navbar__logo-icon {
+  width: 48px;
+  height: 48px;
+  margin-right: 10px;
 }
 
 .fa-gem {
