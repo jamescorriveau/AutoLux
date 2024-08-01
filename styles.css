@@ -49,10 +49,6 @@
   margin-right: 10px;
 }
 
-.fa-gem {
-  margin-right: 0.5rem;
-}
-
 .navbar__menu {
   display: flex;
   align-items: center;
@@ -95,6 +91,7 @@
   border-radius: 4px;
   background: #f77062;
   color: #fff;
+  background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
 }
 
 .button:hover {
@@ -442,6 +439,7 @@
   left: 30px;
   font-size: 1rem;
   cursor: pointer;
+  background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
 }
 
 .services__card:hover {
