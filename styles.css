@@ -202,6 +202,12 @@
   background-color: #141414;
 }
 
+#main__img {
+  height: 80%;
+  width: 80%;
+  border-radius: 8px;
+}
+
 .main__container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -364,7 +370,8 @@
     #ff867a 0%,
     #ff8c7f 21%,
     #f99185 52%,
-    #cf556c 78% #b12a5b 100%
+    #cf556c 78%,
+    #b12a5b 100%
   );
   background-size: 100%;
   margin-bottom: 5rem;
@@ -404,4 +411,60 @@
       rgba(17, 17, 17, 0.6) 100%
     ),
     url("assets/pexels-zachtheshoota-2568539.jpg");
+}
+
+.services h2 {
+  position: absolute;
+  top: 350px;
+  left: 30px;
+}
+
+.services__card p {
+  position: absolute;
+  top: 400px;
+  left: 30px;
+}
+
+.services__card button {
+  color: #fff;
+  padding: 10px 20px;
+  outline: none;
+  border-radius: 4px;
+  background: #f77062;
+  position: absolute;
+  top: 440px;
+  left: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.services__card:hover {
+  transform: scale(1.075);
+  transition: 0.2s ease-in;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 960px) {
+  .services {
+    height: 1600px;
+  }
+
+  .services h1 {
+    font-size: 2rem;
+    margin-top: 12rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .services {
+    height: 1400px;
+  }
+
+  .services h1 {
+    font-size: 1.2rem;
+  }
+
+  .services__card {
+    width: 300px;
+  }
 }
