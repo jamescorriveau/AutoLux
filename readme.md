@@ -12,7 +12,7 @@ The `index.html` file provides the structure of the website, organizing content 
 
 The `styles.css` file is used to style the entire web application. Key features include:
 
-- **Responsive Design:** Media queries are utilized to ensure the website looks great on devices of all sizes, from desktops to mobile phones. 
+- **Responsive Design:** Media queries are utilized to ensure the website looks great on devices of all sizes, from desktops to mobile phones.
 - **Custom Fonts and Colors:** The application uses a comination of Google Fonts and gradients.
 - **Navigation Menu:** The navigation menu is styled to be sticky at the top of the page, ensuring easy access to all sections of the site.
 - **Button Hover Effects:** Buttons and links feature hover effects that enhance interactivity and provide visual feedback to users.
@@ -25,7 +25,7 @@ The `app.js` file contains a small but crucial piece of JavaScript that enables 
 
 🚧 **Work in Progress** 🚧
 
-This project is currently under development, and is continuously updated. Please be aware that the codebase is still evolving, and new features and improvements will be added over time. I am practicing more vanlla code bases so I plan to add more JavaScript and experement with other CSS styling.
+This project is currently under development, and is continuously updated. Please be aware that the codebase is still evolving, and new features and improvements will be added over time. I am practicing with more vanlla codebases and I plan to add more JavaScript and experement with other CSS styling.
 
 🔗 **Check out the most up-to-date version of the web app on my portfolio:**
 
