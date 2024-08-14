@@ -25,8 +25,6 @@ The `app.js` file contains a small but crucial piece of JavaScript that enables 
 
 Simply run open index.html or download and/or use the LiveServer extension in VS Code.
 
-## Work in Progress
-
 🚧 **Work in Progress** 🚧
 
 This project is currently under development, and is continuously updated. Please be aware that the codebase is still evolving, and new features and improvements will be added over time. I am practicing with more vanlla codebases and I plan to add more JavaScript and experement with other CSS styling.
