@@ -21,11 +21,9 @@ The `styles.css` file is used to style the entire web application. Key features 
 
 The `app.js` file contains a small but crucial piece of JavaScript that enables the mobile navigation menu. When the hamburger menu icon is clicked, the script toggles the visibility of the mobile menu, allowing users to easily navigate the site on smaller screens.
 
-### To Run the Web App in your terminal
+### To run the Web App in your terminal
 
 Simply run open index.html or download and/or use the LiveServer extension in VS Code.
-
-## Work in Progress
 
 🚧 **Work in Progress** 🚧
 
