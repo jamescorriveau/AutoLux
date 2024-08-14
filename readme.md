@@ -1,6 +1,6 @@
 # AutoLux Web Application
 
-## Description
+## Project Overview
 
 **AutoLux** is a responsive web application designed to showcase a luxury auto detailing business. This project is built using HTML, CSS, and JavaScript, ensuring that the website is visually appealing and user-friendly across various devices.
 
