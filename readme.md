@@ -4,7 +4,7 @@
 
 This project is currently under development and is continuously updated. I've been practicing with more vanilla code and adding more JavaScript and experementing with alternative CSS styling.
 
-🔗 **Check out the most up-to-date version of the AutoLux on my portfolio:**
+🔗 **Check out the most up-to-date version of AutoLux on my portfolio:**
 
 [James Corriveau Portfolio](https://james-corriveau-portfolio.netlify.app)
 
