@@ -1,4 +1,4 @@
-# AutoLux Auto Detailing
+# AutoLux Automotive Detailing
 
 🚧 **Work in Progress** 🚧
 
