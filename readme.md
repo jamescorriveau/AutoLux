@@ -1,4 +1,4 @@
-# AutoLux Web Application
+# AutoLux Auto Detailing
 
 🚧 **Work in Progress** 🚧
 
