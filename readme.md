@@ -1,5 +1,13 @@
 # AutoLux Web Application
 
+🚧 **Work in Progress** 🚧
+
+This project is currently under development and is continuously updated. The codebase is still evolving, I'm practicing with more vanilla codebases and I'm adding more JavaScript and experementing with alternative CSS styling.
+
+🔗 **Check out the most up-to-date version of the web app on my portfolio:**
+
+[James Corriveau Portfolio](https://james-corriveau-portfolio.netlify.app)
+
 ## Project Overview
 
 **AutoLux** is a responsive web application designed to showcase a luxury auto detailing business. This project is built using HTML, CSS, and JavaScript, ensuring that the website is visually appealing and user-friendly across various devices.
@@ -24,11 +32,3 @@ The `app.js` file contains a small but crucial piece of JavaScript that enables 
 ### To run the Web App in your terminal
 
 Simply run open index.html or download and/or use the LiveServer extension in VS Code.
-
-🚧 **Work in Progress** 🚧
-
-This project is currently under development, and is continuously updated. Please be aware that the codebase is still evolving, and new features and improvements will be added over time. I am practicing with more vanlla codebases and I plan to add more JavaScript and experement with other CSS styling.
-
-🔗 **Check out the most up-to-date version of the web app on my portfolio:**
-
-[James Corriveau Portfolio](https://james-corriveau-portfolio.netlify.app)
